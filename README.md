@@ -6,10 +6,10 @@ Frontend Developer
 React • Next.js • Tailwind CSS
 
 <br/>
+</div>
 
 ### 💻 Tech Stack
 
-</div>
 
 - React  
 - Next.js  
@@ -23,11 +23,11 @@ React • Next.js • Tailwind CSS
 
 <br/>
 
-<div align="center">
+
 
 ### 🌐 Connect with Me
 
-</div>
+
 
 - LinkedIn: https://www.linkedin.com/in/rabiaelifatas/
 
