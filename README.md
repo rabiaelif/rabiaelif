@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Elif ✨
+ Hi, I'm Elif ✨
 
 Frontend Developer  
 React • Next.js • Tailwind CSS
@@ -23,7 +23,7 @@ React • Next.js • Tailwind CSS
 
 
 
-### 🌐 Connect with Me
+🌐 Connect with Me
 
 
 - LinkedIn: https://www.linkedin.com/in/rabiaelifatas/
@@ -32,7 +32,7 @@ React • Next.js • Tailwind CSS
 
 
 
-### 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiaelif&layout=compact&theme=tokyonight" />
 
