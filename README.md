@@ -5,29 +5,38 @@
 Frontend Developer  
 React • Next.js • Tailwind CSS
 
+<br/>
+
+### 💻 Tech Stack
+
 </div>
 
+- React  
+- Next.js  
+- JavaScript / TypeScript  
+- Tailwind CSS  
+- Firebase  
+- Figma  
+- HTML5  
+- CSS3  
+- RESTful API  
 
-## 💻 Tech Stack
+<br/>
 
-- React
-- Next.js
-- JavaScript / TypeScript
-- Tailwind CSS
-- Firebase
-- Figma
-- HTML5
-- CSS3
-- RESTFUL API
+<div align="center">
 
+### 🌐 Connect with Me
 
-
-## 🌐 Connect with Me
+</div>
 
 - LinkedIn: https://www.linkedin.com/in/rabiaelifatas/
 
+<br/>
 
+<div align="center">
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiaelif&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiaelif&layout=compact&theme=tokyonight" />
+
+</div>
