@@ -7,7 +7,7 @@ React • Next.js • Tailwind CSS
 <br/>
 </div>
 
-### 💻 Tech Stack
+ 💻 Tech Stack
 
 - React  
 - Next.js  
