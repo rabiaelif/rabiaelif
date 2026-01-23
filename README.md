@@ -1,10 +1,9 @@
-
 <div align="center">
+
 # Hi, I'm Elif ✨
 
 Frontend Developer  
 React • Next.js • Tailwind CSS
-
 <br/>
 </div>
 
