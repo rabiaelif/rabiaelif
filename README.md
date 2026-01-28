@@ -29,7 +29,8 @@ React • Next.js • Tailwind CSS
 🌐 Connect with Me
 
 
-- LinkedIn: https://www.linkedin.com/in/rabiaelifatas/
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabiaelifatas/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabiaelifog@gmail.com)
 
 <br/>
 
